@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @nurdin-dot
-- 👀 I’m interested in android app development
-- 🌱 I’m currently learning java language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- no i am not a programmer,
+- i am just writing code just for fun
 
 <!---
 nurdin-dot/nurdin-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
